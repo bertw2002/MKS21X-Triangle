@@ -7,6 +7,10 @@ public class Triangle{
     v3 = Point;
   }
   public Triangle(double x1, double x2, double x3, double y1, double y2, double y3){
-
+    Point myPoint = new Point;
   }
+  public double getPerimeter(){
+    return
+  }
+
 }
